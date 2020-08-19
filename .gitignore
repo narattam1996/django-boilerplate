@@ -1,0 +1,8 @@
+static_in_env
+env
+.env
+**/*.pyc
+**/__pycache__
+*.sqlite3
+media
+static_root
